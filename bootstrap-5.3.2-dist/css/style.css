@@ -1,0 +1,42 @@
+.cor{
+    background-color: rgb(206, 206, 206);
+}
+.carousel-item img {
+    height: 450px;
+    
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+    
+}
+#centro{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+    background-color: #ccc;    
+    width: 80%;
+    margin: auto;
+
+}
+.item{
+    background-color: #575353;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black ;
+  
+}
+.produtos {
+    width: 80%;
+    margin: auto;}
+
+.icone    {
+    width: 5%;
+    margin: auto;} 
